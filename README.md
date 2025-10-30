@@ -126,3 +126,65 @@
   text-decoration: none;
   transition: 0.3s;
 }
+
+
+
+
+
+
+<section class="timeline-section">
+  <div class="timeline-line"></div>
+
+  
+  <div class="timeline-card left">
+    <div class="card-content">
+      <h3>Intercurso 🧩</h3>
+      <p>
+        Evento anual onde cada curso é um time, promovendo a integração entre alunos principalmente do mesmo curso, mas também entre todos os participantes.
+       A competição e torcida promovem uma atmosfera animadora para todos os participantes. E assim com a ajuda individual de cada aluno de um determinado curso para contribuir na pontuação e apoiar nas competições coletivas e individuais traz a unidade esperada na competição. 
+      </p>
+      <div class="obs">
+        <strong>Obs:</strong>A competição engloba atividades culturais, esportivas e sociais.
+      </div>
+    </div>
+  </div>
+
+
+  <div class="timeline-card right">
+    <div class="card-content">
+      <h3>Esportes ⚽</h3>
+      <p>
+        O incentivo a práticas esportivas é um forma de promover saúde, espírito esportivo,
+        trabalho em equipe e uma competição saudável entre os estudantes. 
+        Além de que na competição não tem apenas esportes tradicionais, mas também brincadeiras, jogos, games online, e diversas coisas, dessa forma é mais fácil atingir todos os públicos para participação, cada brincadeira, contém uma pontuação diferente, onde o primeiro, segundo, terceiro e quarto lugar também variam entre si. 
+      
+      </p>
+      <div class="obs">   
+        <strong>Obs:</strong>A pontuação varia de cada esporte para saber mais clique no botão abaixo.
+      </div>
+      <br>
+      <br>
+      <div class="botao-sobre">
+        <a href="moda.html" class="sobre-link">Saiba mais</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="timeline-card left">
+    <div class="card-content">
+      <h3>Doações 🎁</h3>
+      <p>
+        As doações tem o objetivo de arrecadar roupas, alimentos, produtos de higiene, lacres, tampinhas, livros e etc. para contribuir para comunidades carentes da região. 
+        Também equivalendo a pontos para a equipe, ou seja, dessa forma o incentivo a doação vai além da causa, trata-se de competição e caridade.
+        Os produtos doados tem diferentes pontuações, porém elementos como brinquedos, roupas, sapatos, livros e etc. são variáveis, com um mínimo e máximo valor de pontos estipulado, por exemplo, brinquedos valem de 5 a 20 pts.
+      </p>
+      <div class="obs">
+        <strong>Obs:</strong>Para saber mais sobre as doações e pontuações clique no botão abaixo.
+      </div>
+        <br>
+      <div class="botao-sobre">
+        <a href="doa.html" class="sobre-link">Saiba mais</a>
+      </div>
+    </div>
+  </div>
+</section>
